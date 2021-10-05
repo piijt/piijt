@@ -20,6 +20,7 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=docker&type=&language=&sort=" alt="Docker logo" title="Docker" height="28" />  
 <img title="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="28"/>
 </div>
+
 ### Useful Links
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://peterjespersen.com/)](peterjespersen.com/)  
