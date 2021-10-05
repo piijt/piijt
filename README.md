@@ -43,4 +43,3 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
