@@ -15,14 +15,10 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="28" />  
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/piijt?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" height="28" />  
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/piijt?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" />  
-
-#### Learning/playing with:
-
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=typescript&type=&language=&sort=" alt="TypeScript logo" title="TypeScript" height="28" />  
 <img src="https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/piijt?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" />  
-<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&style=for-the-badge&logoColor=239120&link=https://github.com/piijt?tab=repositories&q=csharp&type=&language=&sort=" alt="C Sharp logo" title="C#" height="28" />  
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=docker&type=&language=&sort=" alt="Docker logo" title="Docker" height="28" />  
-
+<img title="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="28"/>
 ### Useful Links
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://mhouge.dk/)](peterjespersen.com/)  
