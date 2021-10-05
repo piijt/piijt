@@ -39,6 +39,9 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
     <a href="https://gitlab.com/PeterJespersen" target="_blank">
     <img src="https://img.shields.io/badge/-GitLab-282C34?style=for-the-badge&logo=GitLab&link=https://gitlab.com//"></img>
     </a>
-    
-    
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
