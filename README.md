@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a software developer Living in Denmark.
 
