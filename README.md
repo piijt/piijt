@@ -40,7 +40,9 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
     <img src="https://img.shields.io/badge/-GitLab-282C34?style=for-the-badge&logo=GitLab&link=https://gitlab.com//"></img>
     </a>
 </div>
+
 ### Recent Activity
+
 <!--START_SECTION:waka-->
 ```text
 JSON         5 mins          ████████████████▒░░░░░░░░   65.06 % 
