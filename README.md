@@ -45,9 +45,10 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 hrs 40 mins  ████████████████████████▓   98.21 % 
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Docker       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JavaScript   24 hrs 34 mins  ████████████████████████▓   98.00 % 
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Docker       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
