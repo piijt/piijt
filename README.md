@@ -46,12 +46,12 @@ Currently working @ [cavea.io](https://cavea.io). (I do most of my work related 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 19 mins  ██████████████████░░░░░░░   71.95 %
-Vue.js       2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-JavaScript   1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+TypeScript   11 hrs 19 mins  █████████████████░░░░░░░░   67.38 %
+JavaScript   2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Vue.js       2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
