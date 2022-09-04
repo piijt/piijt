@@ -2,7 +2,7 @@
 
 I am a software developer Living in Denmark.
 
-Currently working @ [cavea.io](https://cavea.io). (I do most of my work related stuff on [Gitlab](https://gitlab.com/PeterJespersen))
+Currently working @ [Trade Raid](https://trade-raid.com). 
 
 ### Technologies
 
