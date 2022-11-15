@@ -46,8 +46,8 @@ Currently working @ [trade-raid.com](https://trade-raid.com)
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       13 hrs 40 mins  ███████████████████░░░░░░   76.56 %
-JavaScript   4 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.41 %
+Vue.js       13 hrs 40 mins  ██████████████████▒░░░░░░   73.86 %
+JavaScript   4 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
