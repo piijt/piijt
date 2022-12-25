@@ -46,8 +46,7 @@ Currently working @ [trade-raid.com](https://trade-raid.com)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 mins         ██████████████████░░░░░░░   71.47 %
-Lua          4 mins          ███████░░░░░░░░░░░░░░░░░░   28.53 %
+Lua   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
