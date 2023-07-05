@@ -31,14 +31,14 @@ Currently working @ [trade-raid.com](https://trade-raid.com)
 <div style="display: inline">
     <a href="peterjespersen.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://peterjespersen"></img></a>
     <a href="https://www.linkedin.com/in/peter-højer-jespersen-630037107/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-282C34?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/peter-højer-jespersen-630037107/"></img>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
     </a>
     <a href="twitter.com/piiijt" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-282C34?style=for-the-badge&logo=Twitter&link=https://twitter.com/piiijt/"></img>
     </a>
-    <a href="https://gitlab.com/PeterJespersen" target="_blank">
+   <!-- <a href="https://gitlab.com/PeterJespersen" target="_blank">
     <img src="https://img.shields.io/badge/-GitLab-282C34?style=for-the-badge&logo=GitLab&link=https://gitlab.com//"></img>
-    </a>
+    </a>-->
 </div>
 
 ### Recent Activity
