@@ -29,7 +29,7 @@ Currently working @ [trade-raid.com](https://trade-raid.com)
 ### Links
 
 <div style="display: inline">
-    <a href="peterjespersen.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://peterjespersen"></img></a>
+    <!-- <a href="peterjespersen.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://peterjespersen"></img></a> -->
     <a href="https://www.linkedin.com/in/peter-højer-jespersen-630037107/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
     </a>
@@ -41,12 +41,3 @@ Currently working @ [trade-raid.com](https://trade-raid.com)
     </a>-->
 </div>
 
-### Recent Activity
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
