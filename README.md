@@ -2,7 +2,7 @@
 
 I am a software developer Living in Denmark.
 
-Currently working looking for new oppourtunities!
+Currently looking for new oppourtunities!
 
 ### Technologies
 
