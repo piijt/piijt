@@ -2,7 +2,7 @@
 
 I am a software developer Living in Denmark.
 
-Currently working @ [trade-raid.com](https://trade-raid.com)
+Currently working looking for new oppourtunities!
 
 ### Technologies
 
