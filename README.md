@@ -2,8 +2,6 @@
 
 I am a software developer Living in Denmark.
 
-Currently looking for new oppourtunities!
-
 ### Technologies
 
 #### Experience with:
