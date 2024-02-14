@@ -2,6 +2,9 @@
 
 I am a software developer Living in Denmark.
 
+Fullstack developer, with flair for system-design and data engineering.
+
+
 ### Technologies
 
 #### Experience with:
