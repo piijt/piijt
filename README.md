@@ -2,8 +2,6 @@
 
 
 <p>🌍 Software Developer Located in Denmark </p>
-
-
   <ul>
     <li style="text-decoration: none;">About</li>
         <p>
@@ -18,7 +16,7 @@
     </p>
     <li>Employments</li>
       <div>
-    <a href="makin3d.com" >@makin3d.com</a>
+    <a href="makin3d.com" target="_blank">@makin3d.com</a>
     Full Stack Developer on in-house Cloud-Platform.
     <br>
     <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
@@ -30,7 +28,7 @@
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/piijt?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" />
   </div>
   <div class="project">
-    <a href="trade-raid.com" >@trade-raid.com</a>
+    <a href="https://trade-raid.com" target="_blank">@trade-raid.com</a>
     Full Stack Developer and technical lead. 
     <br>
     <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
@@ -42,7 +40,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
   </div>
   <div class="project">
-    <a href="cavea.io" >@cavea.io</a>
+    <a href="https://cavea.io" target="_blank">@cavea.io</a>
     Backend Engineer for analytics SaaS platform.
     <br>
     <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
