@@ -52,7 +52,8 @@
 </div>
 </ul>
   
-### Technologies
+### 
+##### Technologies that i've used
 
 <div style="display: inline;">
     <!-- frontend -->
