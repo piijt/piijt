@@ -52,9 +52,8 @@
 </div>
 </ul>
   
-### 
-##### Technologies that i've used
-
+<details>
+<summary>Technologies that i've used</summary>
 <div style="display: inline;">
     <!-- frontend -->
     <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&style=for-the-badge" alt="Vue.js logo" title="Vue.js" height="25" /> 
@@ -83,6 +82,7 @@
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/piijt?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" />
     <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
 </div>
+</details>
 <details>
 <summary style="padding-top: 10px;">Useful links</summary>
     <!-- <a href="peterjespersen.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://peterjespersen"></img></a> -->
