@@ -3,7 +3,7 @@
 <p>🌍 Software Developer Located in Denmark</p>
  
 <div style="display: flex; flex-direction: row; gap: 15px;">
-    <!-- <img style="height: 100px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFkYWp6cjJkejU2dGRuczA0Y3Y1NzJncWVvcHFpdWd5aG5jM3poYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" >   -->
+    <img style="height: 100px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFkYWp6cjJkejU2dGRuczA0Y3Y1NzJncWVvcHFpdWd5aG5jM3poYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" >  
       <p>
       Software Developer,
       with expertise in system design & microservices.
@@ -95,6 +95,11 @@
   </a>
 </details>
 
+<p id="my-paragraph">This is a paragraph.</p>
+
+<script>
+  document.getElementById('my-paragraph').innerText = 'Text updated by JavaScript!';
+</script>
 
 <!-- <details>
   <summary>Project Showcase</summary>
