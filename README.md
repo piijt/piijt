@@ -3,8 +3,10 @@
 
 <p>🌍 Software Developer Located in Denmark </p>
 
-  <summary>About</summary>
-    <p>
+
+  <ul>
+    <li style="text-decoration: none;">About</li>
+        <p>
         Structured Full Stack Developer,
         with expertise in system design & microservices.
         Thorough and curious by nature who demonstrates great
@@ -14,11 +16,8 @@
         approach and overview to handle multiple tasks within tight
         deadlines
     </p>
-
-
-
-  <summary>Employments</summary>
-  <div>
+    <li>Employments</li>
+      <div>
     <a href="makin3d.com" >@makin3d.com</a>
     Full Stack Developer on in-house Cloud-Platform.
     <br>
@@ -53,7 +52,8 @@
     <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
     <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
   </div>
-
+</ul>
+  
 ### Technologies
 
 <div style="display: inline;">
