@@ -2,54 +2,54 @@
 
 
 <p>🌍 Software Developer Located in Denmark </p>
-  <ul>
-    <li style="text-decoration: none;">About</li>
-        <p>
-        Structured Full Stack Developer,
-        with expertise in system design & microservices.
-        Thorough and curious by nature who demonstrates great
-        independence and ability to deliver results under pressure.
-        Experience with heavy development projects within
-        tech startups have provided a strong solution-oriented
-        approach and overview to handle multiple tasks within tight
-        deadlines
-    </p>
-    <li>Employments</li>
-      <div>
-    <a href="makin3d.com" target="_blank">@makin3d.com</a>
-    Full Stack Developer on in-house Cloud-Platform.
-    <br>
-    <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
-    <img src="https://img.shields.io/badge/C%2B%2B-282C34?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ logo" title="C++" height="25" />
-    <img src="https://img.shields.io/badge/Rust-282C34?style=for-the-badge&logo=rust&logoColor=white" alt="Rust logo" title="Rust" height="25" />
-    <img src="https://img.shields.io/badge/PHP-282C34?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />
-    <img title="DO" src="https://img.shields.io/badge/Digital_Ocean-282C34?style=for-the-badge&logo=digitalocean&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/piijt?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" />
-  </div>
-  <div class="project">
-    <a href="https://trade-raid.com" target="_blank">@trade-raid.com</a>
-    Full Stack Developer and technical lead. 
-    <br>
-    <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
-    <img title="AWS" src="https://img.shields.io/badge/AWS-282C34?style=for-the-badge&logo=amazonaws&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Express-282C34?logo=express&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Express.js logo" title="Express.js" height="25" />
-    <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
-    <img title="Laravel" src ="https://img.shields.io/badge/Laravel-282C34?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
-  </div>
-  <div class="project">
-    <a href="https://cavea.io" target="_blank">@cavea.io</a>
-    Backend Engineer for analytics SaaS platform.
-    <br>
-    <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
-    <img title="GCP" src="https://img.shields.io/badge/Google_Cloud-282C34?style=for-the-badge&logo=google-cloud&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
-    <img src="https://img.shields.io/badge/NestJS-282C34?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
-    <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
-    <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
-  </div>
+<ul>
+  <li style="text-decoration: none;">About</li>
+      <p>
+      Structured Full Stack Developer,
+      with expertise in system design & microservices.
+      Thorough and curious by nature who demonstrates great
+      independence and ability to deliver results under pressure.
+      Experience with heavy development projects within
+      tech startups have provided a strong solution-oriented
+      approach and overview to handle multiple tasks within tight
+      deadlines
+  </p>
+  <li>Employments</li>
+    <div>
+  <a href="https://makin3d.com" target="_blank">@makin3d.com</a>
+  Full Stack Developer on in-house Cloud-Platform.
+  <br>
+  <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
+  <img src="https://img.shields.io/badge/C%2B%2B-282C34?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ logo" title="C++" height="25" />
+  <img src="https://img.shields.io/badge/Rust-282C34?style=for-the-badge&logo=rust&logoColor=white" alt="Rust logo" title="Rust" height="25" />
+  <img src="https://img.shields.io/badge/PHP-282C34?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />
+  <img title="DO" src="https://img.shields.io/badge/Digital_Ocean-282C34?style=for-the-badge&logo=digitalocean&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/piijt?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" />
+</div>
+<div class="project">
+  <a href="https://trade-raid.com" target="_blank">@trade-raid.com</a>
+  Full Stack Developer and technical lead. 
+  <br>
+  <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
+  <img title="AWS" src="https://img.shields.io/badge/AWS-282C34?style=for-the-badge&logo=amazonaws&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Express.js logo" title="Express.js" height="25" />
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
+  <img title="Laravel" src ="https://img.shields.io/badge/Laravel-282C34?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
+</div>
+<div class="project">
+  <a href="https://cavea.io" target="_blank">@cavea.io</a>
+  Backend Engineer for analytics SaaS platform.
+  <br>
+  <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
+  <img title="GCP" src="https://img.shields.io/badge/Google_Cloud-282C34?style=for-the-badge&logo=google-cloud&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/NestJS-282C34?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
+</div>
 </ul>
   
 ### Technologies
