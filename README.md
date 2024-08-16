@@ -95,11 +95,6 @@
   </a>
 </details>
 
-<p id="my-paragraph">This is a paragraph.</p>
-
-<script>
-  document.getElementById('my-paragraph').innerText = 'Text updated by JavaScript!';
-</script>
 
 <!-- <details>
   <summary>Project Showcase</summary>
