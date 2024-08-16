@@ -2,8 +2,6 @@
 
 <p>🌍 Software Developer Located in Denmark </p>
  
-<ul>
-  <!-- <li style="text-decoration: none;">About</li> -->
   <div style="display: flex; flex-direction: row; gap: 15px;">
     <img style="height: 100px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFkYWp6cjJkejU2dGRuczA0Y3Y1NzJncWVvcHFpdWd5aG5jM3poYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" >  
       <p>
