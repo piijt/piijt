@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
   </div>
 
-# Technologies 
+### Technologies
 
 <div style="display: inline;">
     <!-- frontend -->
