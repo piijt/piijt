@@ -1,22 +1,19 @@
 ## Hi, I'm Peter👋
 
-<p>🌍 Software Developer Located in Denmark </p>
+<p>🌍 Software Developer Located in Denmark</p>
  
-  <div style="display: flex; flex-direction: row; gap: 15px;">
-    <img style="height: 100px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFkYWp6cjJkejU2dGRuczA0Y3Y1NzJncWVvcHFpdWd5aG5jM3poYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" >  
+<div style="display: flex; flex-direction: row; gap: 15px;">
+    <!-- <img style="height: 100px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFkYWp6cjJkejU2dGRuczA0Y3Y1NzJncWVvcHFpdWd5aG5jM3poYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" >   -->
       <p>
-      Structured Full Stack Developer,
+      Software Developer,
       with expertise in system design & microservices.
       Thorough and curious by nature who demonstrates great
       independence and ability to deliver results under pressure.
-      Experience with heavy development projects within
-      tech startups have provided a strong solution-oriented
-      approach and overview to handle multiple tasks within tight
-      deadlines
+      Experience with heavy development projects
   </p>
-  </div>
+</div>
   
-  <details>
+<details>
     <summary>Employments</summary>
     <div class="project">
         <a href="https://makin3d.com" target="_blank">@makin3d.com</a>
@@ -55,9 +52,6 @@
     </div>
 </details>
 
-
-
-  
 <details>
   <summary>
     Technologies that I've used
