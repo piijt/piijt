@@ -1,6 +1,6 @@
 ## Hi, I'm Peter👋
 
-
+ <img style="width: 100px; height: 25px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFkYWp6cjJkejU2dGRuczA0Y3Y1NzJncWVvcHFpdWd5aG5jM3poYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" /> 
 <p>🌍 Software Developer Located in Denmark </p>
 <ul>
   <li style="text-decoration: none;">About</li>
@@ -53,7 +53,9 @@
 </ul>
   
 <details>
-<summary>Technologies that i've used</summary>
+<summary>
+  Technologies that I've used
+</summary>
 <div style="display: inline;">
     <!-- frontend -->
     <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&style=for-the-badge" alt="Vue.js logo" title="Vue.js" height="25" /> 
