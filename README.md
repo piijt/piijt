@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
     </div>
     <div class="project">
-        <a href="https://cavea.io" target="_blank">@cavea.io</a>                
+        <a href="https://cavea.io" target="_blank">@cavea.io</a>                                     
         Backend Engineer for analytics SaaS platform.
         <br>
         <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
