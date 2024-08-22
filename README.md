@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
         <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
     </div>
-</details>
+</details>                   
 
 <details>
   <summary>
