@@ -45,10 +45,11 @@
         Backend Engineer for analytics SaaS platform.
         <br>
         <img title="DO" src="https://img.shields.io/badge/Kubernetes-282C34?style=for-the-badge&logo=kubernetes&logoColor=white" height="25">
-        <img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" />
+        <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&style=for-the-badge" alt="Vue.js logo" title="Vue.js" height="25" /> 
         <img title="GCP" src="https://img.shields.io/badge/Google_Cloud-282C34?style=for-the-badge&logo=google-cloud&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="25" />
         <img src="https://img.shields.io/badge/NestJS-282C34?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
+        <img src="https://img.shields.io/badge/Express-282C34?logo=express&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=&type=&language=javascript&sort=" alt="Express.js logo" title="Express.js" height="25" />
         <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/piijt?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="25" />
         <img src="https://img.shields.io/badge/PostgreSQL-282C34?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" />
     </div>
